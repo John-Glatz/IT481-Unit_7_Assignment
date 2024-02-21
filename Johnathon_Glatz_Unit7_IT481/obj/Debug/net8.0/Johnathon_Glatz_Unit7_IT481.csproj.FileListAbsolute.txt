@@ -1,0 +1,14 @@
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\obj\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\obj\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.AssemblyInfoInputs.cache
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\obj\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.AssemblyInfo.cs
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\obj\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.csproj.CoreCompileInputs.cache
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\bin\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.exe
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\bin\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.deps.json
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\bin\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.runtimeconfig.json
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\bin\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.dll
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\bin\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.pdb
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\obj\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.dll
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\obj\Debug\net8.0\refint\Johnathon_Glatz_Unit7_IT481.dll
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\obj\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.pdb
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\obj\Debug\net8.0\Johnathon_Glatz_Unit7_IT481.genruntimeconfig.cache
+C:\Users\starz\Desktop\Programs\School Programs\IT481\Johnathon_Glatz_Unit7_IT481\Johnathon_Glatz_Unit7_IT481\obj\Debug\net8.0\ref\Johnathon_Glatz_Unit7_IT481.dll

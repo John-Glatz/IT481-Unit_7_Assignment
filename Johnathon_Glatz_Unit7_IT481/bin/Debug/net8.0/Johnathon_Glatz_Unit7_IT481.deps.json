@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Johnathon_Glatz_Unit7_IT481/1.0.0": {
+        "runtime": {
+          "Johnathon_Glatz_Unit7_IT481.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Johnathon_Glatz_Unit7_IT481/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
